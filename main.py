@@ -24,4 +24,4 @@ print(v3)  # Output: Vector(6, 8)
 
 # Using the overloaded * operator
 v4 = v1 * 3
-print(v4)  # Output: Vector(6, 9)
+print(v4)  # Output: Vector(6, 19)
